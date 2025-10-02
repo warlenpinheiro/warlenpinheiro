@@ -41,14 +41,6 @@ Boilerplate minimal para APIs em TypeScript com boas práticas.
 
 ---
 
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=warlenpinheiro&show_icons=true&theme=radical&count_private=true&hide=stars"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warlenpinheiro&layout=compact&theme=radical"/>
-</p>
-
----
-
 ## 🌐 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/warlen-pinheiro/)  
 - 🌎 [Portfolio](https://warlenpinheiro.github.io/site/)  
